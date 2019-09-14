@@ -21,7 +21,6 @@ public class LoginServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		System.out.println("处理Post请求。。。。。");
-		System.out.println("just a test。。。。。");
 		response.getWriter().write("psot ok");
 	}
 
