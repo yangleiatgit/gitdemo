@@ -26,6 +26,7 @@ public class LoginServlet extends HttpServlet {
 		System.out.println("just a test。。。。。");
 		System.out.println("just a test222。。。。。");
 		System.out.println("just a test。。。。。");
+		System.out.println("this is newbranch2");
 		response.getWriter().write("psot ok");
 	}
 
